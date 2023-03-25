@@ -1,5 +1,5 @@
 # ServerCheck
- Checks the status of a Minecraft (Java) server
+ Checks the status of a Minecraft (Java) server. This Bot is still being developed, more features to come.
 # Required Install Commands
 - npm install discord.js   |    https://discord.js.org/#/ (Should install the latest version (V14 25/03/23))
 - npm install minecraft-server-util    |    https://passthemayo.gitbook.io/minecraft-server-util/
