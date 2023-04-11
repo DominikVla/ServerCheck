@@ -1,5 +1,7 @@
 {
   "dependencies": {
+    "decimal.js": "^10.4.3",
+    "discord-player": "^6.1.1",
     "discord.js": "^14.8.0",
     "dotenv": "^16.0.3",
     "minecraft-server-util": "^5.4.0"
