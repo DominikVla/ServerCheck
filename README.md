@@ -3,11 +3,13 @@
 # Required Install Commands
 - npm install discord.js   |    https://discord.js.org/#/ (Should install the latest version (V14 25/03/23))
 - npm install minecraft-server-util    |    https://passthemayo.gitbook.io/minecraft-server-util/
+- npm install decimals.js    |    https://www.npmjs.com/package/decimal.js?activeTab=readme
 - https://nodejs.org/en Node.JS Version that's recommended for most users
 # Commands
 - /ping  - checks the clients ping and API latency
 - /stats - checks the status of a minecraft server (Defaulted to Hypixel.net in commands/community/servcheck.js line 12)
 - /hello - Bot says hi back, simply to check if the bot is functioning
+- /calculate [score:][maxscore][misses:][accuracy:][maxpoints:]
 # Important
 For the bot to function you need to be able to obtain your application Token, Client ID and Guild Id (Server ID)
 - Application Token goes into the .env file || Guide to get application token: https://www.writebots.com/discord-bot-token/
@@ -21,3 +23,4 @@ To get the IDs do the following:
 - https://discord.com/developers/docs/intro (Discord's documentation)
 - https://passthemayo.gitbook.io/minecraft-server-util/ (Minecraft server library documentaion)
 - https://www.youtube.com/@MrJAwesomeYT (Very good tutorials, credits to him for the Slash Command Package)
+- https://mikemcl.github.io/decimal.js/ (Decimal.JS documentation)
