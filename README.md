@@ -23,6 +23,7 @@ To get the IDs do the following:
 2. Go onto a server with the Bot, right click the bot and press copy ID. This gives the Client ID.
 3. Right click the server you're currently in and press copy ID. This is the Guild ID.
 
+- Reggarding hosting please keep in mind that the BOT need at a minimum 100MB of RAM. Passively the bot should only be using ~25% but  usage goes to 70%-95% when using the music command. Also note that the play command is still under development and may not function correctly.
 # Useful links
 - https://discord.com/developers/docs/intro (Discord's documentation)
 - https://passthemayo.gitbook.io/minecraft-server-util/ (Minecraft server library documentaion)
