@@ -3,10 +3,12 @@
 # Required Install Commands
 **Node.JS Version that's recommended for most users https://nodejs.org/en**
 ```
-npm install discord.js | https://discord.js.org/#/ (Should install the latest version)
+npm install discord.js | https://discord.js.org/#/ (Should install the latest version (V14 25/03/23))
 ```
 ```
-npm install minecraft-server-util | https://passthemayo.gitbook.io/minecraft-server-util/
+npm install minecraft-server-util 
+```
+https://passthemayo.gitbook.io/minecraft-server-util/
 ```
 ```
 npm install decimals.js | https://www.npmjs.com/package/decimal.js?activeTab=readme
