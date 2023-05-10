@@ -1,23 +1,27 @@
 # ServerCheck
  Checks the status of a Minecraft (Java) server. This Bot is still being developed, more features to come.
 # Required Install Commands
-**Node.JS Version that's recommended for most users https://nodejs.org/en**
+**[Node.JS Version that's recommended for most users](https://nodejs.org/en)**
+
+[Discord.JS](https://discord.js.org/)
 ```
-npm install discord.js | https://discord.js.org/#/ (Should install the latest version (V14 25/03/23))
+npm install discord.js
 ```
+[MCServerUtil](https://passthemayo.gitbook.io/minecraft-server-util/)
 ```
-npm install minecraft-server-util 
+npm install minecraft-server-util
 ```
-https://passthemayo.gitbook.io/minecraft-server-util/
+[Decimal.JS](https://www.npmjs.com/package/decimal.js?activeTab=readme)
 ```
+npm install decimals.js
 ```
-npm install decimals.js | https://www.npmjs.com/package/decimal.js?activeTab=readme
+[Discord.JS/Voice](https://www.npmjs.com/package/@discordjs/voice)
 ```
+npm i @discordjs/voice
 ```
-npm i @discordjs/voice | https://www.npmjs.com/package/@discordjs/voice
+[YTDL-Core](https://www.npmjs.com/package/ytdl-core)
 ```
-```
-npm i ytdl-core | https://www.npmjs.com/package/ytdl-core
+npm i ytdl-core
 ```
 # Commands
 - /ping  - checks the clients ping and API latency
